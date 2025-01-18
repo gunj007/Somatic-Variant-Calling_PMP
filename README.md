@@ -38,5 +38,10 @@
 - Validate somatic mutations with **Sanger sequencing** or **ddPCR**.
 - Visualize mutations using **IGV** or **UCSC Genome Browser**.
 
+### WORKFLOW:
+
+> Script 1: QC (Quality Control)
+Script 2: BWA Alignment and Preprocessing
+Script 3: Variant Calling and Annotatio
 
 
