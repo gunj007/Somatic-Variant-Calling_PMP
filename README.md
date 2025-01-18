@@ -6,4 +6,4 @@
 2. samtools: for manipulating SAM/BAM files.
 3. GATK: for alignment, base quality recalibration, and variant calling.
 4. BWA: for read alignment to the reference genome.
-5. seqtk: for subsampling FASTQ files.
+5. FastQC & MultiQC : Quality Check 
